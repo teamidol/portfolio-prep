@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  font-weight: 550;
+  color: green;
+  font-size: 1.2rem;
+}
+
+#banner {
+  height: 700px;
+  width: 1500px;
+}
+
+#profile-pic {
+  height: 250px;
+  width: 200px;
+  float: left;
+}
